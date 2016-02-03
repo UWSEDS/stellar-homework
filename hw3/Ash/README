@@ -1,0 +1,10 @@
+For this assignment, we create an interactive ipython notebook to investigate the Pronto dataset.
+We practice using a variety of shortcuts learned in class as well as the interact function and ipywidgets.
+The submission consists of one folder 'HW3_Ash' inside of which there exists a subfolder
+and this readme.
+
+Folder submitted:
+  Analysis: contains the analysis of the data in an ipython notebook
+
+* Note data is directly downloaded from web url with wget and hence not
+included in a folder
