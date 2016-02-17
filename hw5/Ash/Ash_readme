@@ -1,0 +1,26 @@
+This week's assignment involved brainstorming ideas for 5 commands to
+be used in a Pronto Data Analysis Tool. For each of the commands, use
+cases and corresponding component designs were developed. Additionally,
+one of the components of the tool, namely a plotting function that
+creates a scatter plot of two columns in a specified data frame and
+generates a pdf file of the plot was implemented. A series of brief
+unit tests were also written to test the functionality of the newly
+implemented plot function.
+
+Files submitted:
+1) README.md: markdown file containing detailed information on
+the use cases and component design for the five features of the
+Pronto Data Analysis Tool
+
+2) plot_x_vs_y.py: standalone file containing the implementation of
+the scatter plot and pdf creation functionality.
+
+3) plot_x_vs_y_tester.py: unit tests for the aforementioned
+scatter plot file
+
+4) Ash_readme: this file, general readme explaining goals
+of the week's assignment and submitted files
+
+*5*) pronto_utils.py: discussed in HW_4, included solely for
+purpose of access to data download functionality necessary to
+run and test the plot function

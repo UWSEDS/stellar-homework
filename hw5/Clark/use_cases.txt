@@ -1,0 +1,9 @@
+1.	initialize_pronto_tool: initializes the pronto tool and prompts the user
+    for a command
+2.	grab_user_input: collects the data that the user enters into the system
+3.	customize_input_settings: allows the user to load any previous sessions or
+    saved work
+4.	specify_output_format: specifies how to save plots and other data
+5.	save_output: asks the user whether or not they would like to save plots or
+    other outputs from the analyst tool
+6.	plot_x_vs_y: plots a scatterplot of one column versus another column
